@@ -1,0 +1,4 @@
+Material,y-max (mm),I / 10^-12 m^4,Limiting Force (N),Limiting Stress (MPa)
+Mild Steel,0.9,12.15,76.565,141.78703703703704
+Aluminium,1.425,48.23,90.958,67.18595791001452
+PMMA,2.59,289.57,58.474,13.07522015402148
